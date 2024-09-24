@@ -11,8 +11,8 @@ UIN: 334003275
 |Labs|
 |:--:|
 |[Lab1](Labs/Lab1/README.md)|
-|[Lab2](Labs/Lab1/README.md)|
-|[Lab3](Labs/Lab1/README.md)|
+|[Lab2](Labs/Lab2/README.md)|
+|[Lab3](Labs/Lab3/README.md)|
 |[Lab4](Labs/Lab1/README.md)|
 |[Lab5](Labs/Lab1/README.md)|
 |[Lab6](Labs/Lab1/README.md)|
