@@ -13,7 +13,7 @@ class CensusTract:
     
     def __init__(self, geoid, population, geometry):
         """
-        Initialize the CensusTract with geoid (identifier), population, and geometry (spatial boundary).
+        Initialize the CensusTract with geoid (identifier), population, and geometry.
         - geoid: unique identifier for the census tract
         - population: total population in the tract
         - geometry: spatial boundaries of the census tract (a Polygon)
