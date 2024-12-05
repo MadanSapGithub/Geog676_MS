@@ -8,6 +8,8 @@ UIN: 334003275
 
 [Homework](./Homework)
 
+#Labs
+
 |Labs|
 |:--:|
 |[Lab1](Labs/Lab1/README.md)|
@@ -15,5 +17,12 @@ UIN: 334003275
 |[Lab3](Labs/Lab3/lab03.py)|
 |[Lab4](Labs/Lab4/lab4.py)|
 |[Lab5](Labs/Lab5/lab5_tool.py)|
-|[Lab6](Labs/Lab1/README.md)|
+|[Lab6](Labs/Lab6/lab6.py)|
 |[Lab7](Labs/Lab1/README.md)|
+
+#Final Project
+
+|Final Project|
+|:--:|
+|[Code](Final_Project/Code.py)|
+
